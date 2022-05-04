@@ -6,9 +6,12 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Ja
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt=JS />
   <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt=React />
+  <img src="  https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js
+  " alt=Next />
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt=Node />
-  
-  
+ <img src="  https://img.shields.io/badge/-Express-333333?style=flat&logo=express
+" alt=Express />
+
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt=VSC />
