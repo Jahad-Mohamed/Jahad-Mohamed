@@ -12,7 +12,7 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Ja
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt=VSC />
-  <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" />
+  
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt=GitHub />
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt=Git />
 
@@ -20,7 +20,7 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Ja
 
 <h4>Get in touch with me</h4>
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahad-mohamed/)
 
 ![GitHub metrics](https://metrics.lecoq.io/jahad-mohamed)
 
